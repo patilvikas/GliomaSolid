@@ -1,0 +1,15 @@
+# Large data files (available in GSE deposit)
+data/hoodscan_metrics_non_malignant.csv
+data/hoodscan_malignant_MP_metrics.csv
+data/rna_counts.txt
+data/TCGA_clinical_and_log_matrix.RData
+data/glass_snv.tsv
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# OS files
+.DS_Store
